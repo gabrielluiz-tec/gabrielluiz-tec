@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Lineage 2 game server](www.l2hype.com)
 
-- 😄 I’m looking for help with a IT job
+- 😄 I’m looking for a IT job
 
 - 🌱 I’m currently learning **Full Stack Development**
 
