@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer and data analysis from Brazil.</h3><br>
 
 
-- 🔭 I’m currently working on [Lineage 2 game server](www.l2hype.com)
+- 🔭 I’m currently working on [Lineage 2 game server](http://www.l2hype.com)
 
 - 😄 I’m looking for a IT job
 
