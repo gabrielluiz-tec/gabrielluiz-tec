@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Luiz da Silva</h1>
 
 
-<h3 align="center">A passionate frontend developer and data analysis from Brazil.</h3>
+<h3 align="center">A passionate frontend developer and data analysis from Brazil.<br></h3>
 
 
 - 🔭 I’m currently working on [Lineage 2 game server](www.l2hype.com)
