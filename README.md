@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Luiz da Silva</h1>
 <h3 align="center">A passionate frontend developer and data analysis from Brazil.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielluiz-tec" alt="gabrielluiz-tec" /></a> </p>
-
 - 🔭 I’m currently working on [Lineage 2 game server](www.l2hype.com)
 
 - 😄 I’m looking for help with a IT job
@@ -27,6 +25,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielluiz-tec&show_icons=true&locale=en&layout=compact" alt="gabrielluiz-tec" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielluiz-tec" alt="gabrielluiz-tec" /></a> </p>
 
 <!--
 **gabrielluiz-tec/gabrielluiz-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
