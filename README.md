@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Luiz da Silva</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Luiz</h1>
 
 
 <h3 align="center">A passionate frontend developer and data analysis from Brazil.</h3><br>
