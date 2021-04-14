@@ -25,11 +25,16 @@
 
 <h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> 
-💻   Python Java
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React
-🛢    MySQL MongoDB
-⚙️   Git GitHub
+💻   Python, Java
+  
+🌐   HTML5, CSS, JavaScript, Bootstrap, Node.js, React
+
+🛢    MySQL, MongoDB
+
+⚙️   Git, GitHub
+
 🔧   Visual Studio Code
+
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielluiz-tec&show_icons=true&locale=en&layout=compact" alt="gabrielluiz-tec" /></p>
 
