@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> 
-💻   Python, Java
+💻   Python, JavaScript
   
 🌐   HTML5, CSS, JavaScript, Bootstrap, Node.js, React
 
