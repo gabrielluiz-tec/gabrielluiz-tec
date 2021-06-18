@@ -27,7 +27,7 @@
 <p align="left"> 
 💻   JavaScript, Python
   
-🌐   HTML5, CSS, JavaScript, Bootstrap, SASS Node.js, React
+🌐   HTML5, CSS, JavaScript, Bootstrap, SASS, Node.js, React
 
 🛢    MySQL, MongoDB
 
