@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gabriel Luiz</h1>
 
 
-<h3 align="center">A passionate frontend developer and data analysis from Brazil.</h3><br>
+<h3 align="center">Full Stack Developer from Brazil.</h3><br>
 
 
-- 🔭 I’m currently working on [Lineage 2 game server](http://www.l2hype.com)
+- 🔭 I’m currently working on Lineage 2 game server
 
 - 😄 I’m looking for a IT job
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently finishing to learn **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [gabrielluiz-tec.github.io](gabrielluiz-tec.github.io)
 
