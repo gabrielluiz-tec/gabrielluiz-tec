@@ -35,7 +35,7 @@
 
 🔧   Visual Studio Code
 
-✨   Photoshop, Illustrator, Sony Vegas, Premiere
+✨   Photoshop, Illustrator, Premiere
  
 
 
