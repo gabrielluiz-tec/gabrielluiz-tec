@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel Luiz</h1>
 
 
-<h3 align="center">Full Stack Developer from Brazil.</h3><br>
+<h3 align="center">Full Stack Developer from Brazil</h3><br>
 
 
-- 🔭 I’m currently working on Lineage 2 game server
+- 🔭 I’m currently working on my own Lineage 2 game server
 
 - 😄 I’m looking for a IT job
 
@@ -27,13 +27,16 @@
 <p align="left"> 
 💻   JavaScript, Python
   
-🌐   HTML5, CSS, JavaScript, Bootstrap, SASS, Node.js, React
+🌐   HTML5, CSS3, JavaScript, Bootstrap, SASS, Node.js, React
 
-🛢    MySQL, MongoDB
+🛢    MySQL, MongoDB, Firebase
 
 ⚙️   Git, GitHub
 
 🔧   Visual Studio Code
+
+✨   Photoshop, Illustrator, Sony Vegas, Premiere
+ 
 
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielluiz-tec&show_icons=true&locale=en&layout=compact" alt="gabrielluiz-tec" /></p>
