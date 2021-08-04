@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently finishing to learn **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [gabrielluiz-tec.github.io](gabrielluiz-tec.github.io)
+<!--- 👨‍💻 All of my projects are available at [gabrielluiz-tec.github.io](gabrielluiz-tec.github.io) -->
 
 - 📫 How to reach me **gabrielsilva.adm@gmail.com**<br><br>
 
