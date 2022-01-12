@@ -25,11 +25,11 @@
 
 <h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> 
-💻   JavaScript, Python
+💻   JavaScript, Python, C#
   
-🌐   HTML5, CSS3, JavaScript, Bootstrap, SASS, React, Node.js, Jest Tests
+🌐   HTML5, CSS3, JavaScript, Bootstrap, SASS, React, Angular, Node.js, .Net Core, Jest Tests
 
-🛢    MySQL, MongoDB, Firebase
+🛢    SQL, MongoDB, Firebase
 
 ⚙️   Git, GitHub
 
