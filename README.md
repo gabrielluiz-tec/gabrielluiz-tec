@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> 
-💻   JavaScript, Python, C#
+💻   Python, C#
   
 🌐   HTML5, CSS3, JavaScript, Bootstrap, SASS, React, Angular, Node.js, .Net Core, Jest Tests
 
